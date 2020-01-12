@@ -4,7 +4,7 @@ title: Contact
 #image: cuba-1.jpg
 ---
 
-We welcome applications for students at every level from a broad range of specialization in neuroscience including physiology, animal behavior, imaging technologies, and computational neuroscience.
+We welcome applications for students at every level from a broad range of specialization in neuroscience including physiology, animal behaviour, imaging technologies, and computational neuroscience.
 
 Contact [me](mailto://joanes.grandjean@radboudumc.nl)
 

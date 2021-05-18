@@ -13,9 +13,39 @@ title: Publications
 
 Link to [google scholar](https://scholar.google.com/citations?user=fGj3e5cAAAAJ&hl=en)
 
-Jump to [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016) [2015](#2015) [2014](#2014) [2013](#2013) [2012](#2012) [2011](#2011)
+Jump to [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016) [2015](#2015) [2014](#2014) [2013](#2013) [2012](#2012) [2011](#2011)
+
+#### Preprints
+
+"Sharma, Bhargy; Grandjean, Joanes; Phillips, Margaret; Kumar, Ambrish; Mandino, Francesca; Yeow, Ling-Yun; Nandwana, Vikas; Dravid, Vinayak P; Bengang, Xing; Lim, Sierin; ",Conjugates of neuroprotective chaperone L-PGDS provide MRI contrast for detection of amyloid β-rich regions in live Alzheimer's Disease mouse model brain, __BioRxiv__
+
+Mandino, Francesca; Yeow, Ling Yun; Bi, Renzhe; Lee, Sejin; Bae, Han Gyu; Baek, Seung Hyun; Lee, Chun Yao; Mohammad, Hasan; Teoh, Chai Lean; Lee, Jasinda; **Grandjean, Joanes**; Local and global dichotomic dysfunction in resting and evoked functional connectivity precedes tauopathy, __BioRxiv__
+
+Al-Amin, Md Mamun; **Grandjean, Joanes**; Klohs, Jan; Kim, Jungsu; Disrupted structural connectivity in ArcAβ mouse model of Aβ amyloidosis, __BioRxiv__
+
+Salvan, Piergiorgio; Lazari, Alberto; Vidaurre, Diego; Mandino, Francesca; Johansen-Berg, Heidi; **Grandjean, Joanes**; Causal evidence of network communication in whole-brain dynamics through a multiplexed neural code, __BioRxiv__
+
+Diniz, Danielle Mendes; Bosch, Kari; Calabrese, Francesca; Brivio, Paola; Riva, Marco A; **Grandjean, Joanes**; Homberg, Judith R; BDNF Overexpression in the Prelimbic Cortex Does Not Reduce Anxiety-and Depression-like Behavior in Serotonin Knockout Rats, __BioRxiv__
+
+
+#### 2021
+
+Diniz, Danielle M; Calabrese, Francesca; Brivio, Paola; Riva, Marco A; **Grandjean, Joanes**; Homberg, Judith R; BDNF overexpression in the ventral hippocampus promotes antidepressant-and anxiolytic-like activity in serotonin transporter knockout rats, __International Journal of Molecular Sciences__ 22 9 5040 2021
+
+**Grandjean, Joanes**; Buehlmann, David; Buerge, Michaela; Sigrist, Hannes; Seifritz, Erich; Vollenweider, Franz X; Pryce, Christopher R; Rudin, Markus; Psilocybin exerts distinct effects on resting state networks associated with serotonin and dopamine in mice __NeuroImage__ 225 117456 2021
+
+Huntenburg, Julia M; Yeow, Ling Yun; Mandino, Francesca; **Grandjean, Joanes**; Gradients of functional connectivity in the mouse cortex reflect neocortical evolution __NeuroImage__ 225 117528 2021
+
+Guo, Chao Ciu-Gwok; He, Tao; **Grandjean, Joanes; Homberg**, Judith; Knockout serotonin transporter in rats moderates outcome and stimulus generalization __Translational psychiatry__ 11 1 1-12 2021
 
 #### 2020
+**Grandjean, Joanes**; A common mouse fMRI resource through unified preprocessing, 2020, __Radboud Data Repository__
+
+Escande-Beillard, Nathalie; Loh, Abigail; Saleem, Sahar N; Kanata, Kohei; Hashimoto, Yui; Altunoglu, Umut; Metoska, Artina; **Grandjean, Joanes**; Ng, Fui Mee; Pomp, Oz; Loss of PYCR2 causes neurodegeneration by increasing cerebral glycine levels via SHMT2 __Neuron__ 107 1 82-94. e6 2020
+
+Mandino, Francesca; Cerri, Domenic H; Garin, Clement M; Straathof, Milou; van Tilborg, Geralda AF; Chakravarty, M Mallar; Dhenain, Marc; Dijkhuizen, Rick M; Gozzi, Alessandro; Hess, Andreas; **Joanes Grandjean**; Animal functional magnetic resonance imaging: trends and path toward standardization, __Frontiers in neuroinformatic__ 13 78 2020 Frontiers
+
+Xu, Qianli; Zhang, Jiayi; **Grandjean, Joanes**; Tan, Cheston; Subbaraju, Vigneshwaran; Li, Liyuan; Lee, Kuan Jin; Hsieh, Po-Jang; Lim, Joo-Hwee; Neural correlates of retrieval-based enhancement of autobiographical memory in older adults, __Scientific reports__ 10 1 1-12 2020
 
 **Grandjean, Joanes**; Canella, Carola; Anckaerts, Cynthia; Ayrancı, Gülebru; Bougacha, Salma; Bienert, Thomas; Buehlmann, David; Coletta, Ludovico; Gallino, Daniel; Gass, Natalia; 	Common functional networks in the mouse brain revealed by multi-centre resting-state fMRI analysis	__NeuroImage__	205		116278	2020
 
